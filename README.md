@@ -1,4 +1,4 @@
-# Mp3-Playa
+# Mp3-Player (Playa)
 
 ### MODULES USED 
 - ##### 1) pygame
